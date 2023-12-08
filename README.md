@@ -47,9 +47,11 @@
 </div></p>
 <p dir="auto">Cloud:
 <div style="filter: invert(1); display: flex; justify-content: space-around; padding: 10px; background-color: #1e1e1e; border-radius: 8px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40" style="border: 2px solid #4285F4; border-radius: 4px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40" style="border: 2px solid #0078D4; border-radius: 4px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" style="border: 2px solid #232F3E; border-radius: 4px;"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" title="Google Cloud" alt="Google Cloud" style="border: 2px solid #4285F4; border-radius: 4px;"/>  
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS" alt="AWS" style="border: 2px solid #232F3E; border-radius: 4px;"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Microsoft Azure" alt="Microsoft Azure" width="40" height="40" style="border: 2px solid #0078D4; border-radius: 4px;"/>&nbsp;
+
+
 </div>
 </p>
 <p dir="auto">Tools:
@@ -58,14 +60,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" style="border: 2px solid #f05032; border-radius: 4px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40" style="border: 2px solid #181717; border-radius: 4px;"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40" style="border: 2px solid #0052cc; border-radius: 4px;"/>&nbsp;
-
 </div>
 </p>
 <p dir="auto">IDEs:
 <div style="filter: invert(1); display: flex; justify-content: space-around; padding: 10px; background-color: #1e1e1e; border-radius: 8px;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40" style="border: 2px solid #1d365d; border-radius: 4px;"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40" style="border: 2px solid #007acc; border-radius: 4px;"/>&nbsp;
- </div>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" title="IntelliJ IDEA" alt="IntelliJ IDEA" style="border: 2px solid #1d365d; border-radius: 4px;"/>
+  <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" title="Visual Studio Code" alt="Visual Studio Code" style="border: 2px solid #007acc; border-radius: 4px;"/>
 </p>
 </article>
   </div>
