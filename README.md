@@ -4,7 +4,7 @@
   <div class="Box-body p-4">
     <div class="d-flex flex-justify-between">
      
-<p dir="auto">As a software engineer focused in frontend development, I ampassionate about using technology to create accessibleintelligent solutions. My background in Art History, helps to bringa unique perspective to the IT field and combine my creative andtechnical skills. I have worked in different projects with differentsystems such as construction of end-to-end user-focusedapplications, bank integration and credit systems.</p>
+<p dir="auto">As a software engineer focused in frontend development, I am passionate about using technology to create accessible intelligent solutions. My background in Art History, helps to bring a unique perspective to the IT field and combine my creative and technical skills. I have worked in different projects with different systems such as construction of end-to-end user-focused applications, bank integration and credit systems.</p>
 
 <a href="https://www.linkedin.com/in/cami-silva/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/cami-silva/" alt="Linkedin: camila silva" style="max-width: 100%;"/>
